@@ -1,0 +1,2 @@
+Run celery app:
+celery -A app worker  --loglevel info
